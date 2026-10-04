@@ -5,6 +5,10 @@ public class App {
         String tekija = "Tino Laakso";
         System.out.println("Ohjelman tekijä: " + tekija);
 
+        int luku1 = 5;
+        int luku2 = 10;
+        System.out.println("Luku1 muuttujan arvo on: " + luku1);
+
       
     }
 }
